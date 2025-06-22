@@ -43,9 +43,7 @@ Preparar el contrato: Asegúrate de tener un contrato en Solidity con pragma sol
 
 Ejecutar la herramienta:
 
-Si la herramienta es interactiva (por línea de comandos), te pedirá la ruta al contrato .sol.
-
-Si usas una interfaz gráfica, selecciona el archivo .sol que quieras convertir.
+Selecciona el archivo .sol que quieras convertir.
 
 Responde a las preguntas: La aplicación puede solicitar información adicional (por ejemplo, direcciones o reglas de valor no explícitas en el contrato).
 
