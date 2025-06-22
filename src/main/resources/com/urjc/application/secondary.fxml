@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.urjc.application.SecondaryController">
+
+    <top>
+        <Label text="Resultado e3value"
+               style="-fx-font-size: 18px; -fx-text-fill: #333;"
+               BorderPane.alignment="CENTER"/>
+    </top>
+
+    <center>
+        <TextArea fx:id="txtXml" wrapText="true"/>
+    </center>
+
+    <bottom>
+        <HBox alignment="CENTER" spacing="20.0" BorderPane.alignment="CENTER">
+            <Button text="Exportar .xml" fx:id="btnExport"/>
+            <Button text="Volver" fx:id="btnBack"/>
+        </HBox>
+    </bottom>
+
+    <padding>
+        <Insets top="20" right="20" bottom="20" left="20"/>
+    </padding>
+</BorderPane>
