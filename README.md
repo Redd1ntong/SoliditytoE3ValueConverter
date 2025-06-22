@@ -26,7 +26,7 @@ En muchos entornos de negocio y desarrollo, los **smart contracts** pueden resul
 ## Estructura del Proyecto
 
 ```plaintext
-SoliditytoXMLConverter/
+SoliditytoE3ValueConverter/
 ├── src/
 │   ├── main/
 │   │   ├── java/               # Código fuente Java del parser y la lógica de transformación
