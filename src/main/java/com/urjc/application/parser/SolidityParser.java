@@ -10,7 +10,9 @@ import java.nio.file.Paths;
 
 public class SolidityParser {
 
-    private static final String SOLC_PATH = "C:\\solc\\solc.exe";
+    private static final String SOLC_PATH = System.getProperty("os.name").toLowerCase().startsWith("windows")
+                    ? "solc.exe"
+                    : "solc"; 
 
     public static JsonNode compileToAst(String sourceCode) throws CompilationException {
         try {
