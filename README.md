@@ -4,6 +4,12 @@
 
 ---
 
+## Vídeo demonstrativo
+
+
+https://github.com/user-attachments/assets/0455d7ac-7859-471c-967d-abca2692952f
+
+
 ## Descripción General
 
 En muchos entornos de negocio y desarrollo, los **smart contracts** pueden resultar complejos de entender para perfiles no técnicos. El modelo E3Value permite representar de forma gráfica y sencilla los intercambios de valor (objetos, dinero, participantes, etc.). Nuestra aplicación:
