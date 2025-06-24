@@ -4,7 +4,7 @@
 
 ---
 
-## Vídeo demonstrativo
+## Visualización práctica de uso en vídeo
 
 
 https://github.com/user-attachments/assets/0455d7ac-7859-471c-967d-abca2692952f
